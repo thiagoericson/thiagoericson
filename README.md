@@ -1,7 +1,6 @@
 # Thiago Ericson Cabral
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagoericson)
-[![AWS](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=aws&logoColor=white)](https://builder.aws.com/community/@thiagocabral)
 
 ## About me
 
